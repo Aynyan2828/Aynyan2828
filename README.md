@@ -3,8 +3,8 @@
 **BCNOFNe**（ボクノフネ, *"boku no fune"* = my ship）comes from the Japanese periodic-table rhyme
 *"sui-hei-ri-be, boku no fune"* — **B, C, N, O, F, Ne**.
 
-I'm a former sailor and second engineer from the Ariake Sea in Japan.
-Now I build at night with **AYN**, my watercolor AI engineer: iOS apps, sleep & work BGM, AI radio and songs.
+I sailed from Yokohama as a second engineer, then worked as a deckhand on the Ariake Sea aiming to become a captain.
+Now I work at a plant by day and build at night with **AYN**, my watercolor AI engineer: iOS apps, sleep & work BGM, AI radio and songs.
 
 🌐 **Home port: https://bcnofne.com**
 
