@@ -13,6 +13,7 @@ Now I work at a plant by day and build at night with **AYN**, my watercolor AI e
 <!-- APPS:START -->
 | | App | |
 |---|---|---|
+| <img src="https://bcnofne.com/icons/sorotte.png" width="48" alt=""> | **[Sorotte（ソロッテ）](https://apps.apple.com/jp/app/id6824176396)** | Theme your iPhone home screen as a matching set |
 | <img src="https://bcnofne.com/icons/fuyometer.png" width="48" alt=""> | **[扶養メーター](https://apps.apple.com/jp/app/id6781950133)** | See how much you can earn before hitting Japan's dependent-income limits |
 | <img src="https://bcnofne.com/icons/shiftwake.png" width="48" alt=""> | **[ShiftWake](https://apps.apple.com/jp/app/id6785128543)** | Automatic alarms for shift workers |
 | <img src="https://bcnofne.com/icons/subscope.png" width="48" alt=""> | **[SubScope（サブスコープ）](https://apps.apple.com/jp/app/id6819530548)** | Subscription tracker so you never forget to cancel |
